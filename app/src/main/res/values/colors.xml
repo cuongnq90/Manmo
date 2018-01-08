@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1a951f</color> <!-- 607D8B -->
+    <color name="colorPrimaryDark">#1B5E20</color> <!-- 607D8B -->
+    <color name="colorPrimaryLight">#CFD8DC</color> <!-- 607D8B -->
+    <color name="colorAccent">#1a951f</color> <!-- FFC107 -->
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#727272</color>
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="gravity">#91000000</color>
+    <color name="black">#F0000000</color>
+    <color name="green">#1B5E20</color>
+    <color name="greenlight">#1a951f</color>
+    <color name="greenText">#4CAF50</color>
+    <color name="white">#fff</color>
+    <color name="gray">#EEEEEE</color>
+    <color name="gray2">#e1e1e1</color>
+    <color name="grayDark">#757575</color>
+    <color name="red">#D32F2F</color>
+    <color name="hightblue">#42A5F5</color>
+    <color name="lowblue">#90CAF9</color>
+    <color name="nameChatMe">#1DE9B6</color>
+    <color name="ocean">#64B5F6</color>
+    <color name="blue">#15a2ef</color>
+    <color name="orange">#FF9800</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="yellowDark">#FFC107</color>
+    <color name="orangeDark">#EF6C00</color>
+</resources>

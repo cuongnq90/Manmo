@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ManMo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="map">Bản đồ</string>
+    <string name="list">Danh sách</string>
+    <string name="news">Tin mới</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="share">Chia sẻ</string>
+    <string name="info">Thông tin</string>
+    <string name="policy">Chính sách bảo mật</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <string name="home_site_link">https://www.manmo.vn</string>
+    <string name="getHotelAroundAPI">https://manmo.vn/getHotelAroundAPI</string>
+    <string name="getNoticeNewAPI">https://manmo.vn/getNoticeNewAPI</string>
+    <string name="getFurnitureAPI">https://manmo.vn/getFurnitureAPI</string>
+    <string name="getInfoHotelAPI">https://manmo.vn/getInfoHotelAPI</string>
+    <string name="orderHotel">https://manmo.vn/orderHotel</string>
+    <string name="getTypeHotelAPI">https://manmo.vn/getTypeHotelAPI</string>
+    <string name="searchHotelAPI">https://manmo.vn/searchHotelAPI</string>
+    <string name="updateVoteHotelAPI">https://manmo.vn/updateVoteHotelAPI</string>
+
+    <string name="link_policy">https://manmo.vn/chinh-sach-bao-mat.html</string>
+
+    <string name="google_map_api_key">AIzaSyA8v7h4K0-162qYFmpiSe8jrVDdjLmYQLI</string>
+
+</resources>
